@@ -2,7 +2,6 @@
 ## Extensions
 ########################
 *.class
-*.xml
 
 ########################
 ## Package Files
@@ -14,6 +13,4 @@
 ########################
 ## Directories
 ########################
-nbproject/
 build/
-src/conf/

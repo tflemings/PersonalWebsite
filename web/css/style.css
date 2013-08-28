@@ -20,6 +20,7 @@ html body{
     font-size: 62.5%;
     height: 100%;
     width: 100%;
+    color: #c0c0c0;
 }
 
 .logo{
@@ -46,6 +47,12 @@ html body{
 .header .button:hover{
     background-color: #c0c0c0;
     color: #3f48cc;
+}
+
+fieldset{
+    width: 50%;
+    font-size: 1.4em;
+    border: none;
 }
 
 
